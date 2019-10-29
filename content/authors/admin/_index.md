@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/whitepony97 
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/zhang-jin-shan-98/activities
 - icon: cv
   icon_pack: ai
   link: static/files/cv.pdf
