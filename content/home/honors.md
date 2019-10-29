@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Huazhong University of Science and Technology"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "Academic Merit Scholarship for Freshmen"
   url = ""
   certificate_url = ""
-  date_start = "2017-3-01"
+  date_start = "2017-03-01"
   date_end = ""
   description = ""
 
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-10-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
 
 [[item]]
   organization = "Huazhong University of Science and Technology"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Huazhong University of Science and Technology"
   organization_url = ""
-  title = "outstanding cadet of undergraduate military training"
+  title = "Outstanding Cadet of Undergraduate Military Training"
   url = ""
   certificate_url = ""
   date_start = "2016-10-01"
