@@ -14,14 +14,19 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Experience"
+  url = "#experience"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Activities"
+  url = "#activities"
   weight = 40
+  
+[[main]]
+  name = "Honors"
+  url = "#honors"
+  weight = 50
 
 [[main]]
   name = "CV"
