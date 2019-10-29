@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Wuhan,China"
   date_start = "2019-01-01"
-  date_end = "2019-02-30"
+  date_end = "2019-02-25"
   description = """Served as commissary in charge of studies in class 7."""
 
 [[experience]]
@@ -46,11 +46,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "China College IC Competition"
-  company = "Team Member"
+  company = "Team Leader"
   company_url = ""
-  location = "Wuhan,China"
-  date_start = "2019-01-01"
-  date_end = "2019-02-30"
+  location = "Nanjing,China"
+  date_start = "2019-03-01"
+  date_end = "2019-08-30"
   description = """Served as monitor in class IC1602"""
 
 +++
