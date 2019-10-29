@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "microphone"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Broadcasting"
+  description = "Chinese Broadcasts, Programme Host, Movie Dubbing"
   
 [[feature]]
   icon = "chart-line"
