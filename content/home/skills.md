@@ -21,15 +21,15 @@ subtitle = ""
   description = "Chinese Broadcasting, Programme Hosting, Movie Dubbing"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Programming"
+  description = "C, C++, Java, Python, HTML, Verilog"  
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "microchip"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "IC Design"
+  description = "Digital, Analog, Radio Frequency"
 
 +++
