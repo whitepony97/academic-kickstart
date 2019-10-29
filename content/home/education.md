@@ -52,13 +52,13 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-06-30"
   description = """
-  -2016 , academic merit scholarship for freshmen of HUST
-  -2017 , merit student of HUST 
-  -2018 , merit student of HUST 
-  -2018 , outstanding communist youth league cadre of HUST
-  -2016 , outstanding cadet of undergraduate military training
-  -2019  Honorable Mention in MCM/ICM
-  -2019 , the third prize in China College IC Competition
+  - 2016 , academic merit scholarship for freshmen of HUST
+  - 2017 , merit student of HUST 
+  - 2018 , merit student of HUST 
+  - 2018 , outstanding communist youth league cadre of HUST
+  - 2016 , outstanding cadet of undergraduate military training
+  - 2019  Honorable Mention in MCM/ICM
+  - 2019 , the third prize in China College IC Competition
   """
 
 +++
