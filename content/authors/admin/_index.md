@@ -45,18 +45,21 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: weibo
-  icon_pack: fab
-  link: https://weibo.com/u/3805684232
 - icon: github
   icon_pack: fab
   link: https://github.com/whitepony97 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%E9%94%A6%E5%B1%B1-%E5%BC%A0-16552a18b/
+- icon: weibo
+  icon_pack: fab
+  link: https://weibo.com/u/3805684232
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/zhang-jin-shan-98/activities
-- icon: cv
-  icon_pack: ai
-  link: static/files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
