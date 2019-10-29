@@ -28,11 +28,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Mathematical Contest In Modeling"
-  company = "Junior School Student"
+  company = "Team Leader"
   company_url = ""
-  location = "Yichang,China"
-  date_start = "2010-09-01"
-  date_end = "2013-06-30"
+  location = "Nanjing,China"
+  date_start = "2019-03-01"
+  date_end = "2019-08-30"
   description = """Served as commissary in charge of studies in class 7."""
 
 [[experience]]
