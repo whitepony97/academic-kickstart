@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "microphone"
-  icon_pack = "fab"
+  icon = "microphone-alt"
+  icon_pack = "fas"
   name = "Broadcasting"
   description = "Chinese Broadcasts, Programme Host, Movie Dubbing"
 
