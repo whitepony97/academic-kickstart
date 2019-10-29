@@ -24,11 +24,9 @@ date_format = "Jan 2006"
   location = "Wuhan,China"
   date_start = "2018-04-01"
   date_end = "2019-03-30"
-  description = """
-  Research on Red-black Signal Recognition Algorithm for Information Security Computer 
+  description = """Research on Red-black Signal Recognition Algorithm for Information Security Computer 
   - Study the speech spectrum noise reduction algorithm, processing low signal-to-noise ratio training and test signals. 
-  - Research the DTW algorithm and realize the signal recognition.
-  """
+  - Research the DTW algorithm and realize the signal recognition."""
 
 [[experience]]
   title = "Mathematical Contest In Modeling"
