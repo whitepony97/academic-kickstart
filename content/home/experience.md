@@ -1,7 +1,10 @@
 widget = "experience"
 headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
+title = "Experience"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
