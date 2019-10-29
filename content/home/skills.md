@@ -18,7 +18,7 @@ subtitle = ""
   icon = "microphone-alt"
   icon_pack = "fas"
   name = "Broadcasting"
-  description = "Chinese Broadcasts, Programme Host, Movie Dubbing"
+  description = "Chinese Broadcasting, Programme Hosting, Movie Dubbing"
 
 [[feature]]
   icon = "chart-line"
