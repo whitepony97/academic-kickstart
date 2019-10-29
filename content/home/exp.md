@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Education"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Yichang Experimental Primary school"
+  title = "Innovation Training Program of HUST"
   company = "Primary School Student"
   company_url = ""
   location = "Yichang,China"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """Served as deputy monitor in class 3."""
 
 [[experience]]
-  title = "Yichang No.4 middle school"
+  title = "Mathematical Contest In Modeling"
   company = "Junior School Student"
   company_url = ""
   location = "Yichang,China"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """Served as commissary in charge of studies in class 7."""
 
 [[experience]]
-  title = "Yichang Yiling Middle School"
+  title = "Wuhan Mushen Robot co., LTD"
   company = "High School Student"
   company_url = ""
   location = "Yichang,China"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   description = """Studied science in class 16."""
 
 [[experience]]
-  title = "Huazhong University of Science and Technology"
+  title = "China College IC Competition"
   company = "B.S. in IC Design"
   company_url = ""
   location = "Wuhan,China"
