@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Yichang,China"
   date_start = "2013-09-01"
   date_end = "2016-06-30"
-  description = """Study science in class 16."""
+  description = """Studied science in class 16."""
   
 [[experience]]
   title = "Huazhong University of Science and Technology"
@@ -51,14 +51,6 @@ date_format = "Jan 2006"
   location = "Wuhan,China"
   date_start = "2016-09-01"
   date_end = "2020-06-30"
-  description = """
-  - 2016 , academic merit scholarship for freshmen of HUST
-  - 2017 , merit student of HUST 
-  - 2018 , merit student of HUST 
-  - 2018 , outstanding communist youth league cadre of HUST
-  - 2016 , outstanding cadet of undergraduate military training
-  - 2019  Honorable Mention in MCM/ICM
-  - 2019 , the third prize in China College IC Competition
-  """
+  description = """Served as deputy monitor in class IC1602"""
 
 +++
