@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Studnet"
+  company = "Yichang Experimental Primary school"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Yichang,China"
+  date_start = "2004-09-01"
+  date_end = "2010-06-30"
+  description = """Served as deputy monitor in class 3."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Studnet"
+  company = "Yichang No.4 middle school"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Yichang,China"
+  date_start = "2010-09-01"
+  date_end = "2013-06-30"
+  description = """Served as commissary in charge of studies in class 7."""
+  
+[[experience]]
+  title = "Studnet"
+  company = "Yichang Yiling Middle School"
+  company_url = ""
+  location = "Yichang,China"
+  date_start = "2013-09-01"
+  date_end = "2016-06-30"
+  description = """Study science in class 16."""
+  
+[[experience]]
+  title = "B.S. in IC Design"
+  company = "Huazhong University of Science and Technology"
+  company_url = ""
+  location = "Wuhan,China"
+  date_start = "2013-09-01"
+  date_end = "2016-06-30"
+  description = """
+  2016 , academic merit scholarship for freshmen of HUST
+  2017 , merit student of HUST 
+  2018 , merit student of HUST 
+  2018 , outstanding communist youth league cadre of HUST
+  2016 , outstanding cadet of undergraduate military training
+  2019  Honorable Mention in MCM/ICM
+  2019 , the third prize in China College IC Competition
+  """
 
 +++
