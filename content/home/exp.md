@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Wuhan,China"
   date_start = "2018-08-01"
   date_end = "2016-09-01"
-  description = """Served as deputy monitor in class 3."""
+  description = """Research on Red-black Signal Recognition Algorithm for Information Security Computer 
+  - Study the speech spectrum noise reduction algorithm, processing low signal-to-noise ratio training and test signals. 
+  - Research the DTW algorithm and realize the signal recognition."""
 
 [[experience]]
   title = "Mathematical Contest In Modeling"
@@ -33,7 +35,9 @@ date_format = "Jan 2006"
   location = "Wuhan,China"
   date_start = "2019-01-01"
   date_end = "2019-02-25"
-  description = """Served as commissary in charge of studies in class 7."""
+  description = """A Design for an Aerial Disaster Relief Response System 
+  - Complete thesis writing. 
+  - Design directed graph model of unmanned aerial vehicle (uav) flight path."""
 
 [[experience]]
   title = "Wuhan Mushen Robot co., LTD"
@@ -42,7 +46,7 @@ date_format = "Jan 2006"
   location = "Wuhan,China"
   date_start = "2018-08-01"
   date_end = "2016-09-01"
-  description = """Studied science in class 16."""
+  description = """Debugging parameters can realize the robot's obstacle avoidance navigation，Based on the open source ROS system and navigation package."""
 
 [[experience]]
   title = "China College IC Competition"
@@ -51,6 +55,6 @@ date_format = "Jan 2006"
   location = "Nanjing,China"
   date_start = "2019-03-01"
   date_end = "2019-08-30"
-  description = """Served as monitor in class IC1602"""
+  description = """T-Head  cup" is based on the agile development of DTU terminal cloud integrated chip, realizing the communication between sensors and DTU and data uploading to Ali Cloud."""
 
 +++
