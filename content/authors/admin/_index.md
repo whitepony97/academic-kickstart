@@ -46,7 +46,7 @@ social:
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: weibo
-  icon_pack:fab
+  icon_pack: fab
   link: https://weibo.com/u/3805684232
 - icon: github
   icon_pack: fab
