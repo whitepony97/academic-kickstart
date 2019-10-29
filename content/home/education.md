@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Wuhan,China"
   date_start = "2016-09-01"
   date_end = "2020-06-30"
-  description = """Served as deputy monitor in class IC1602"""
+  description = """Served as monitor in class IC1602"""
 
 +++
