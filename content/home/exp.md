@@ -28,29 +28,29 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Mathematical Contest In Modeling"
+  company = "Team Member"
+  company_url = ""
+  location = "Wuhan,China"
+  date_start = "2019-01-01"
+  date_end = "2019-02-30"
+  description = """Served as commissary in charge of studies in class 7."""
+
+[[experience]]
+  title = "Wuhan Mushen Robot co., LTD"
+  company = "Robot Motion Control Engineer"
+  company_url = ""
+  location = "Wuhan,China"
+  date_start = "2018-08-01"
+  date_end = "2016-09-01"
+  description = """Studied science in class 16."""
+
+[[experience]]
+  title = "China College IC Competition"
   company = "Team Leader"
   company_url = ""
   location = "Nanjing,China"
   date_start = "2019-03-01"
   date_end = "2019-08-30"
-  description = """Served as commissary in charge of studies in class 7."""
-
-[[experience]]
-  title = "Wuhan Mushen Robot co., LTD"
-  company = "High School Student"
-  company_url = ""
-  location = "Yichang,China"
-  date_start = "2013-09-01"
-  date_end = "2016-06-30"
-  description = """Studied science in class 16."""
-
-[[experience]]
-  title = "China College IC Competition"
-  company = "B.S. in IC Design"
-  company_url = ""
-  location = "Wuhan,China"
-  date_start = "2016-09-01"
-  date_end = "2020-06-30"
   description = """Served as monitor in class IC1602"""
 
 +++
