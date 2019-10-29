@@ -46,11 +46,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "China College IC Competition"
-  company = "Team Leader"
+  company = "Team Member"
   company_url = ""
-  location = "Nanjing,China"
-  date_start = "2019-03-01"
-  date_end = "2019-08-30"
+  location = "Wuhan,China"
+  date_start = "2019-01-01"
+  date_end = "2019-02-30"
   description = """Served as monitor in class IC1602"""
 
 +++
