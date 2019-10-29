@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2016-09-01"
   description = """Research on Red-black Signal Recognition Algorithm for Information Security Computer 
+  
   * Study the speech spectrum noise reduction algorithm, processing low signal-to-noise ratio training and test signals. 
   * Research the DTW algorithm and realize the signal recognition."""
 
@@ -36,6 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-02-25"
   description = """A Design for an Aerial Disaster Relief Response System 
+  
   * Complete thesis writing. 
   * Design directed graph model of unmanned aerial vehicle (uav) flight path."""
 
