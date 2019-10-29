@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "B.S. in IC Design"
   company_url = ""
   location = "Wuhan,China"
-  date_start = "2013-09-01"
-  date_end = "2016-06-30"
+  date_start = "2016-09-01"
+  date_end = "2020-06-30"
   description = """
   -2016 , academic merit scholarship for freshmen of HUST
   -2017 , merit student of HUST 
