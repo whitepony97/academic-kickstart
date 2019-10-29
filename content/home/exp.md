@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Education"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,39 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Yichang Experimental Primary school"
-  company = "Primary School Student"
+  title = "Innovation Training Program of HUST"
+  company = "Team Leader"
   company_url = ""
-  location = "Yichang,China"
-  date_start = "2004-09-01"
-  date_end = "2010-06-30"
+  location = "Wuhan,China"
+  date_start = "2018-04-01"
+  date_end = "2019-03-30"
   description = """Served as deputy monitor in class 3."""
 
 [[experience]]
-  title = "Yichang No.4 middle school"
-  company = "Junior School Student"
+  title = "Mathematical Contest In Modeling"
+  company = "Team Member"
   company_url = ""
-  location = "Yichang,China"
-  date_start = "2010-09-01"
-  date_end = "2013-06-30"
+  location = "Wuhan,China"
+  date_start = "2019-01-01"
+  date_end = "2019-02-30"
   description = """Served as commissary in charge of studies in class 7."""
 
 [[experience]]
-  title = "Yichang Yiling Middle School"
-  company = "High School Student"
+  title = "Wuhan Mushen Robot co., LTD"
+  company = "Robot Motion Control Engineer"
   company_url = ""
-  location = "Yichang,China"
-  date_start = "2013-09-01"
-  date_end = "2016-06-30"
+  location = "Wuhan,China"
+  date_start = "2018-08-01"
+  date_end = "2016-09-01"
   description = """Studied science in class 16."""
 
 [[experience]]
-  title = "Huazhong University of Science and Technology"
-  company = "B.S. in IC Design"
+  title = "China College IC Competition"
+  company = "Team Leader"
   company_url = ""
-  location = "Wuhan,China"
-  date_start = "2016-09-01"
-  date_end = "2020-06-30"
+  location = "Nanjing,China"
+  date_start = "2019-03-01"
+  date_end = "2019-08-30"
   description = """Served as monitor in class IC1602"""
 
 +++
