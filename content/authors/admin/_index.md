@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Integrated Circuit Design
+  - course: B.Eng in Integrated Circuit Design
     institution: Huazhong University of Science and Technology
     year: 2020
 
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link:  zhang_jinshan@hust.edu.cn                 #'#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
