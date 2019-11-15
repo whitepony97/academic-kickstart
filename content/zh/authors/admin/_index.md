@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jinshan Zhang
+name: 张锦山
 
 # Username (this should match the folder name)
 authors:
@@ -10,25 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate of IC Design
+role: 集成电路设计本科生
 
 # Organizations/Affiliations
 organizations:
-- name: Huazhong University of Science and Technology
+- name: 华中科技大学
   url: "http://www.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Atypical Engineering Boy
 
 interests:
-- Artificial Intelligence Processor
-- Computer Architecture
-- RISC-V Processor
+- 人工智能处理器
+- 计算机体系结构
+- RISC-V 处理器
 
 education:
   courses:
-  - course: B.Eng in Integrated Circuit Design
-    institution: Huazhong University of Science and Technology
+  - course: 集成电路设计与集成系统，工学学士
+    institution: 华中科技大学
     year: 2020
 
 # Social/Academic Networking
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate from School of Optics and Electronic Information (OEI) of Huazhong University of Science and Technology (HUST). I am mainly interested in digital integrated circuit design. 
+我是来自华中科技大学（HUST）光学与电子信息学院（OEI）的一名本科生，感兴趣的方向主要为数字集成电路设计。欢迎来到我的个人主页！

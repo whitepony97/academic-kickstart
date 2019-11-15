@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "microphone-alt"
   icon_pack = "fas"
-  name = "Broadcasting"
-  description = "Chinese Broadcasting, Programme Hosting, Movie Dubbing"
+  name = "播音主持"
+  description = "中文播音, 节目主持, 影视配音"
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming"
+  name = "编程"
   description = "C, C++, Java, Python, HTML, Verilog"  
 
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
-  name = "IC Design"
-  description = "Digital, Analog, Radio Frequency"
+  name = "IC 设计"
+  description = "数字电路, 模拟电路, 射频电路"
 
 +++
