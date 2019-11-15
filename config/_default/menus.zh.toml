@@ -5,23 +5,23 @@
 
 [[main]]
   name = "首页"
-  url = "#about_zh"
+  url = "#about"
   weight = 10
 
 
 [[main]]
   name = "经历"
-  url = "#exp_zh"
+  url = "#exp"
   weight = 30
 
 [[main]]
   name = "活动"
-  url = "#activities_zh"
+  url = "#activities"
   weight = 40
   
 [[main]]
   name = "荣誉"
-  url = "#honors_zh"
+  url = "#honors"
   weight = 50
 
 [[main]]
