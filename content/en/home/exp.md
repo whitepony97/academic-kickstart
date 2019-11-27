@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Wuhan,China"
   date_start = "2018-03-01"
-  date_end = "2016-04-01"
+  date_end = "2018-04-01"
   description = """Research on Red-black Signal Recognition Algorithm for Information Security Computer 
   
   * Study the speech spectrum noise reduction algorithm, processing low signal-to-noise ratio training and test signals. 
