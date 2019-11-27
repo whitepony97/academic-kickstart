@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "项目负责人"
   company_url = ""
   location = "中国武汉"
-  date_start = "2018-08-01"
-  date_end = "2016-09-01"
+  date_start = "2018-03-01"
+  date_end = "2019-04-01"
   description = """信息安全计算机红黑信号识别算法研究 
   
   * 进行团队协调与沟通，主持开题、中期、结题答辩
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "中国武汉"
   date_start = "2018-08-01"
-  date_end = "2016-09-01"
+  date_end = "2018-09-01"
   description = """基于开源ROS系统及导航包，调试参数实现机器人避障导航"""
 
 [[experience]]
