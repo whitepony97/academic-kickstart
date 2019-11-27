@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "项目经历"
+title = "经历"
 subtitle = ""
 
 # Date format for experience
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = "2019-08-30"
   description = """“平头哥杯”基于DTU端云一体芯片敏捷开发
-  
+
   * 实现传感器与DTU通讯及数据上传
   * 数据库的设计与实现"""
 

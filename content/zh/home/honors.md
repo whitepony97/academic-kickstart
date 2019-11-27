@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Honors"
+title = "荣誉"
 subtitle = ""
 
 # Date format
@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Huazhong University of Science and Technology"
+  organization = "华中科技大学"
   organization_url = ""
-  title = "Academic Merit Scholarship for Freshmen"
+  title = "新生学习优秀奖学金"
   url = ""
   certificate_url = ""
   date_start = "2017-03-01"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Huazhong University of Science and Technology"
+  organization = "华中科技大学"
   organization_url = ""
-  title = "Merit Student"
+  title = "三好学生"
   url = ""
   certificate_url = ""
   date_start = "2017-10-01"
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Huazhong University of Science and Technology"
+  organization = "华中科技大学"
   organization_url = ""
-  title = "Merit Student"
+  title = "三好学生"
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"
@@ -49,9 +49,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Huazhong University of Science and Technology"
+  organization = "华中科技大学"
   organization_url = ""
-  title = "Outstanding Communist Youth League Cadre"
+  title = "优秀共青团干部"
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"
@@ -59,9 +59,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Huazhong University of Science and Technology"
+  organization = "华中科技大学"
   organization_url = ""
-  title = "Outstanding Cadet of Undergraduate Military Training"
+  title = "优秀军训学员"
   url = ""
   certificate_url = ""
   date_start = "2016-10-01"
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Consortium for Mathematics and Its Application"
+  organization = "美国大学生数学建模比赛"
   organization_url = ""
   title = "Honorable Mention in MCM/ICM"
   url = ""
@@ -79,13 +79,22 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Ministry of Industry and Information Technology"
+  organization = "工业和信息化部"
   organization_url = ""
-  title = "the Third Prize in China College IC Competition"
+  title = "全国大学生集成电路创新创业大赛三等奖"
   url = ""
   certificate_url = ""
   date_start = "2019-08-01"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "华中科技大学"
+  organization_url = ""
+  title = "科技创新奖学金"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = ""
 +++
