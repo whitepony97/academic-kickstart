@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "其他"
-subtitle = "副标题1"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,9 +49,18 @@ subtitle = "副标题1"
  # CSS class.
  css_class = ""
 +++
+**社团、组织与活动**
 
-光学与电子信息学院“2017年度十大歌手”20强选手
-华中科技大学夏雨诗社社员
-华中科技大学广播台中文播音员
-华中科技大学喻园之声文艺晚会节目负责人
-光学与电子信息学院2018年度表彰大会主持人
+- 光学与电子信息学院“2017年度十大歌手”20强选手
+- 华中科技大学夏雨诗社社员
+- 华中科技大学广播台中文播音员
+- 华中科技大学喻园之声文艺晚会节目负责人
+- 光学与电子信息学院2018年度表彰大会主持人
+
+**班级介绍**
+
+<iframe src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+**摄影作品**
+
+<div align=center><img width = '800' height ='450' src ="static/img/2.jpg"/></div>
