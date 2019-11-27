@@ -58,7 +58,8 @@ date_format = "Jan 2006"
   location = "中国南京"
   date_start = "2019-03-01"
   date_end = "2019-08-30"
-  description = """"“平头哥杯”基于DTU端云一体芯片敏捷开发
+  description = """“平头哥杯”基于DTU端云一体芯片敏捷开发
+  
   * 实现传感器与DTU通讯及数据上传
   * 数据库的设计与实现"""
 
