@@ -16,7 +16,7 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "全国大学生集成电路创新创业大赛"
+  title = "集成电路创新大赛"
   content = "中国南京" # "I am center aligned :smile:"
   align = "right"  # Choose `center`, `left`, or `right`.
 
