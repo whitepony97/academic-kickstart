@@ -59,7 +59,8 @@ subtitle = ""
 
 **班级介绍**
 
-<iframe width="800" height="450" src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="450" src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<br> 
 <br> 
 **摄影作品**
 
