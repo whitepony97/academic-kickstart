@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-#  title = "张锦山的个人主页"
+  title = "张锦山的主页"
 #  [zh.params]
 #    description = "这里是张锦山的个人主页"
 #  [[zh.menu.main]]
