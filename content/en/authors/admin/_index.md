@@ -21,6 +21,7 @@ organizations:
 bio: Atypical Engineering Boy
 
 interests:
+- Digital IC Design
 - Artificial Intelligence Processor
 - Computer Architecture
 - RISC-V Processor
@@ -71,4 +72,17 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate from School of Optics and Electronic Information (OEI) of Huazhong University of Science and Technology (HUST). I am mainly interested in digital integrated circuit design. 
+&emsp;I am studying in the school of optics and electronic information (OEI) of huazhong university of science and technology (HUST). I am a senior undergraduate majoring in integrated circuit design and integrated system.The core courses of study are as follows:
+
+- CMOS Analog Integrated Circuit
+- Fundamentals of Digital Integrated Circuit
+- Verilog HDL and Design of Digital System
+- CMOS RF IC
+- Principles of Computer Organization
+- Processor Architecture
+- Digital Signal Processing
+- Physics of Semiconductor Devices
+
+&emsp;At present, I have been recommended to Academy for Engineering and Technology, Fudan University (FAET) to study for a master's degree in computer science. I will join the Custom Intelligent Hardware Laboratory(CIH Lab) in February 2020, where I will learn AI chip design for robots supervised by Prof.Chixiao Chen.
+
+&emsp;Welcome to my personal homepage!

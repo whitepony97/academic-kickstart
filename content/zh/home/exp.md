@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   description = """基于开源ROS系统及导航包，调试参数实现机器人避障导航"""
 
 [[experience]]
-  title = "全国大学生集成电路创新创业大赛，"
+  title = "全国大学生集成电路创新创业大赛"
   company = "参赛队长"
   company_url = ""
   location = "中国南京"
