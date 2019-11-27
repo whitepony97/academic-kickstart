@@ -69,9 +69,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "美国大学生数学建模比赛"
+  organization = "美国数学及其应用联合会"
   organization_url = ""
-  title = "Honorable Mention in MCM/ICM"
+  title = "美国大学生数学建模比赛二等奖"
   url = ""
   certificate_url = ""
   date_start = "2019-04-01"
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "工业和信息化部"
+  organization = "工业和信息化部人才交流中心"
   organization_url = ""
   title = "全国大学生集成电路创新创业大赛三等奖"
   url = ""
