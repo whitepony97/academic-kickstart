@@ -59,8 +59,12 @@ subtitle = ""
 
 **班级介绍**
 
-<iframe src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="800" height="450" src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 **摄影作品**
 
 <div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/7lU4i*Z97BBRT8aSQAoE4fpD8uF**Adq8UcZvz66Nvc!/r/dGwBAAAAAAAA"/></div>
+
+<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/2ijyD.Y2qmTmegmflOikjeNNEoQAoXAVozOOvF9VIjY!/r/dAsAAAAAAAAA"/></div>
+
+<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/q8ssyHd7RJw*JG7J.8pp.DMsOjv18Ux07fmN2.mFyQY!/r/dF4BAAAAAAAA"/></div>
