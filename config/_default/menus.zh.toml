@@ -8,6 +8,10 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "技能"
+  url = "#skills"
+  weight = 20
 
 [[main]]
   name = "经历"
@@ -15,9 +19,9 @@
   weight = 30
 
 [[main]]
-  name = "活动"
-  url = "#activities"
-  weight = 40
+  name = "其他"
+  url = "#others"
+  weight = 55
   
 [[main]]
   name = "荣誉"
