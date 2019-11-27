@@ -63,4 +63,4 @@ subtitle = ""
 
 **摄影作品**
 
-<div align=center><img width = '800' height ='450' src ="static/img/2.jpg"/></div>
+<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/7lU4i*Z97BBRT8aSQAoE4fpD8uF**Adq8UcZvz66Nvc!/r/dGwBAAAAAAAA"/></div>
