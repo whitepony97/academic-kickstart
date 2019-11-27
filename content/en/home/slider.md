@@ -35,7 +35,7 @@ height = "500px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "University of Science and Technology of China Summer Camp"
+  title = "USTC Summer Camp"
   content = "Hefei, China" # "I am left aligned :smile:"
   align = "left"
 
@@ -44,7 +44,7 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Fudan University Summer Camp"
+  title = "Fudan Summer Camp"
   content = "Shanghai, China" # "I am right aligned :smile:"
   align = "right"
 
