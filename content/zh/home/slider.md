@@ -11,14 +11,14 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "900px"
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "全国大学生集成电路创新创业大赛"
   content = "中国南京" # "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
