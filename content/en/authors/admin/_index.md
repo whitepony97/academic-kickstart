@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-&emsp;I am studying in the school of optics and electronic information (OEI) of huazhong university of science and technology (HUST). I am a senior undergraduate majoring in integrated circuit design and integrated system.The core courses of study are as follows:
+&emsp;I am studying in the School of Optics and Electronic Information (OEI) of Huazhong University of Science and Technology (HUST). I am a senior undergraduate majoring in Integrated Circuit Design and Integrated System.The core courses of study are as follows:
 
 - CMOS Analog Integrated Circuit
 - Fundamentals of Digital Integrated Circuit
@@ -83,6 +83,6 @@ user_groups:
 - Digital Signal Processing
 - Physics of Semiconductor Devices
 
-&emsp;At present, I have been recommended to Academy for Engineering and Technology, Fudan University (FAET) to study for a master's degree in computer science. I will join the Custom Intelligent Hardware Laboratory(CIH Lab) in February 2020, where I will learn AI chip design for robots supervised by Prof.Chixiao Chen.
+&emsp;At present, I have been recommended to Academy for Engineering and Technology, Fudan University (FAET) to study for a master's degree in computer science. I will join the Custom Intelligent Hardware Laboratory(CIH Lab) in Feb 2020, where I will learn AI chip design for robots supervised by Prof.Chixiao Chen.
 
 &emsp;Welcome to my personal homepage!

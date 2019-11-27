@@ -30,6 +30,6 @@ subtitle = ""
   icon = "microchip"
   icon_pack = "fas"
   name = "IC Design"
-  description = "Digital, Analog, Radio Frequency"
+  description = "Digital, Analog, RF IC"
 
 +++
