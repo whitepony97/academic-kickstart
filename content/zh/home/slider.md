@@ -17,13 +17,13 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = # "I am center aligned :smile:"
+  content = "" # "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = ""# "1.jpg"  # "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "" # "1.jpg"  # "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Left"
-  content = # "I am left aligned :smile:"
+  content = "" # "I am left aligned :smile:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -45,7 +45,7 @@ height = ""
 
 [[item]]
   title = "Right"
-  content = # "I am right aligned :smile:"
+  content = "" # "I am right aligned :smile:"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
