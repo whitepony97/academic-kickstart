@@ -57,11 +57,16 @@ subtitle = ""
 - 华中科技大学喻园之声文艺晚会节目负责人
 - 光学与电子信息学院2018年度表彰大会主持人
 
-**班级介绍**
+**广播作品**
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=345168056&auto=0&height=430"></iframe>
+
+**学校介绍**
 
 <iframe width="100%" height="450" src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br> 
 <br> 
+
 **摄影作品**
 
 <div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/7lU4i*Z97BBRT8aSQAoE4fpD8uF**Adq8UcZvz66Nvc!/r/dGwBAAAAAAAA"/></div>
