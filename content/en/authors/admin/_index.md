@@ -83,6 +83,6 @@ user_groups:
 - Digital Signal Processing
 - Physics of Semiconductor Devices
 
-&emsp;At present, I have been recommended to Academy for Engineering and Technology, Fudan University (FAET) to study for a master's degree in computer science. I will join the Custom Intelligent Hardware Laboratory(CIH Lab) in Feb 2020, where I will learn AI chip design for robots supervised by Prof.Chixiao Chen.
+&emsp;At present, I have been recommended to Academy for Engineering and Technology, Fudan University (FAET) to study for a master's degree in computer science. I have joined the Custom Intelligent Hardware Laboratory (CiH Lab) in December 2019, where I will learn AI chip design for robots supervised by Prof.Chixiao Chen.
 
 &emsp;Welcome to my personal homepage!
