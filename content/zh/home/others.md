@@ -57,7 +57,7 @@ subtitle = ""
 - 华中科技大学喻园之声文艺晚会节目负责人
 - 光学与电子信息学院2018年度表彰大会主持人
 
-**广播作品**
+<!-- **广播作品**
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=345168056&auto=0&height=430"></iframe>
 
@@ -73,4 +73,4 @@ subtitle = ""
 <br> 
 <div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/2ijyD.Y2qmTmegmflOikjeNNEoQAoXAVozOOvF9VIjY!/r/dAsAAAAAAAAA"/></div>
 <br> 
-<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/q8ssyHd7RJw*JG7J.8pp.DMsOjv18Ux07fmN2.mFyQY!/r/dF4BAAAAAAAA"/></div>
+<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/q8ssyHd7RJw*JG7J.8pp.DMsOjv18Ux07fmN2.mFyQY!/r/dF4BAAAAAAAA"/></div> -->

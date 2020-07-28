@@ -51,13 +51,13 @@ subtitle = ""
 +++
 **Societies, Organizations and Activities**
 
-- Top 20 Contestants of ‚Äú2017 Top Ten Singers‚Äù of the School of Optics and Electronics and Information
+- Top 20 Contestants of ‚Ä?2017 Top Ten Singers‚Ä? of the School of Optics and Electronics and Information
 - Member of Xiayu poetry club, HUST
 - Chinese Snnouncer of Yuyuan Broadcast Station, HUST
 - Director of Yuyuan Literary Evening, HUST
 - Host of 2018 annual commendation meeting of School of Optics, Electronics and Information
 
-**Broadcast**
+<!-- **Broadcast**
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=345168056&auto=0&height=430"></iframe>
 
@@ -73,4 +73,4 @@ subtitle = ""
 <br> 
 <div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/2ijyD.Y2qmTmegmflOikjeNNEoQAoXAVozOOvF9VIjY!/r/dAsAAAAAAAAA"/></div>
 <br> 
-<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/q8ssyHd7RJw*JG7J.8pp.DMsOjv18Ux07fmN2.mFyQY!/r/dF4BAAAAAAAA"/></div>
+<div align=center><img width = '800' height ='450' src ="http://r.photo.store.qq.com/psb?/V13DpdCT4SLkkK/q8ssyHd7RJw*JG7J.8pp.DMsOjv18Ux07fmN2.mFyQY!/r/dF4BAAAAAAAA"/></div> -->
